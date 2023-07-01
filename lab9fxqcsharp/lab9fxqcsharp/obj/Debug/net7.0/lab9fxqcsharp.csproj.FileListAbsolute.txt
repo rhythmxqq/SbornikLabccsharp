@@ -1,0 +1,15 @@
+/Users/mak/Projects/lab9fxqcsharp/lab9fxqcsharp/bin/Debug/net7.0/lab9fxqcsharp
+/Users/mak/Projects/lab9fxqcsharp/lab9fxqcsharp/bin/Debug/net7.0/lab9fxqcsharp.deps.json
+/Users/mak/Projects/lab9fxqcsharp/lab9fxqcsharp/bin/Debug/net7.0/lab9fxqcsharp.runtimeconfig.json
+/Users/mak/Projects/lab9fxqcsharp/lab9fxqcsharp/bin/Debug/net7.0/lab9fxqcsharp.dll
+/Users/mak/Projects/lab9fxqcsharp/lab9fxqcsharp/bin/Debug/net7.0/lab9fxqcsharp.pdb
+/Users/mak/Projects/lab9fxqcsharp/lab9fxqcsharp/obj/Debug/net7.0/lab9fxqcsharp.csproj.AssemblyReference.cache
+/Users/mak/Projects/lab9fxqcsharp/lab9fxqcsharp/obj/Debug/net7.0/lab9fxqcsharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mak/Projects/lab9fxqcsharp/lab9fxqcsharp/obj/Debug/net7.0/lab9fxqcsharp.AssemblyInfoInputs.cache
+/Users/mak/Projects/lab9fxqcsharp/lab9fxqcsharp/obj/Debug/net7.0/lab9fxqcsharp.AssemblyInfo.cs
+/Users/mak/Projects/lab9fxqcsharp/lab9fxqcsharp/obj/Debug/net7.0/lab9fxqcsharp.csproj.CoreCompileInputs.cache
+/Users/mak/Projects/lab9fxqcsharp/lab9fxqcsharp/obj/Debug/net7.0/lab9fxqcsharp.dll
+/Users/mak/Projects/lab9fxqcsharp/lab9fxqcsharp/obj/Debug/net7.0/refint/lab9fxqcsharp.dll
+/Users/mak/Projects/lab9fxqcsharp/lab9fxqcsharp/obj/Debug/net7.0/lab9fxqcsharp.pdb
+/Users/mak/Projects/lab9fxqcsharp/lab9fxqcsharp/obj/Debug/net7.0/lab9fxqcsharp.genruntimeconfig.cache
+/Users/mak/Projects/lab9fxqcsharp/lab9fxqcsharp/obj/Debug/net7.0/ref/lab9fxqcsharp.dll

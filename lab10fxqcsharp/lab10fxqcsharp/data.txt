@@ -1,0 +1,4 @@
+﻿ExamPerson;John Doe;1990;2010;5000;1000
+TestPerson;Jane Smith;1995;2012;4000;800
+ExamPerson;Michael Johnson;1988;2008;5500;1200
+TestPerson;Emily Davis;1992;2011;4500;900

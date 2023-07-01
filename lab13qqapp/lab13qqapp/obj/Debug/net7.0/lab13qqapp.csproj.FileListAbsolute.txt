@@ -1,0 +1,15 @@
+/Users/mak/Projects/lab13qqapp/lab13qqapp/bin/Debug/net7.0/lab13qqapp
+/Users/mak/Projects/lab13qqapp/lab13qqapp/bin/Debug/net7.0/lab13qqapp.deps.json
+/Users/mak/Projects/lab13qqapp/lab13qqapp/bin/Debug/net7.0/lab13qqapp.runtimeconfig.json
+/Users/mak/Projects/lab13qqapp/lab13qqapp/bin/Debug/net7.0/lab13qqapp.dll
+/Users/mak/Projects/lab13qqapp/lab13qqapp/bin/Debug/net7.0/lab13qqapp.pdb
+/Users/mak/Projects/lab13qqapp/lab13qqapp/obj/Debug/net7.0/lab13qqapp.csproj.AssemblyReference.cache
+/Users/mak/Projects/lab13qqapp/lab13qqapp/obj/Debug/net7.0/lab13qqapp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mak/Projects/lab13qqapp/lab13qqapp/obj/Debug/net7.0/lab13qqapp.AssemblyInfoInputs.cache
+/Users/mak/Projects/lab13qqapp/lab13qqapp/obj/Debug/net7.0/lab13qqapp.AssemblyInfo.cs
+/Users/mak/Projects/lab13qqapp/lab13qqapp/obj/Debug/net7.0/lab13qqapp.csproj.CoreCompileInputs.cache
+/Users/mak/Projects/lab13qqapp/lab13qqapp/obj/Debug/net7.0/lab13qqapp.dll
+/Users/mak/Projects/lab13qqapp/lab13qqapp/obj/Debug/net7.0/refint/lab13qqapp.dll
+/Users/mak/Projects/lab13qqapp/lab13qqapp/obj/Debug/net7.0/lab13qqapp.pdb
+/Users/mak/Projects/lab13qqapp/lab13qqapp/obj/Debug/net7.0/lab13qqapp.genruntimeconfig.cache
+/Users/mak/Projects/lab13qqapp/lab13qqapp/obj/Debug/net7.0/ref/lab13qqapp.dll

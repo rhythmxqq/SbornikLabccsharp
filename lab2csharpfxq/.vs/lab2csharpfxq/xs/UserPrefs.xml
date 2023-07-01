@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{611B25F8-3983-45B7-90E7-E6B609511B18}|Default">
+  <MonoDevelop.Ide.ItemProperties.lab2csharpfxq PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="lab2csharpfxq/Program.cs">
+    <Files>
+      <File FileName="lab2csharpfxq/Program.cs" Line="40" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lab2csharpfxq" expanded="True">
+            <Node name="lab2csharpfxq" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

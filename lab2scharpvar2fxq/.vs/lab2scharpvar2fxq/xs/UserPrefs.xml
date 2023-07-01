@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{B92586B9-3D4B-49A5-8A69-05582B63A52B}|Default">
+  <MonoDevelop.Ide.ItemProperties.lab2scharpvar2fxq PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="lab2scharpvar2fxq/Program.cs">
+    <Files>
+      <File FileName="lab2scharpvar2fxq/Program.cs" Line="43" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lab2scharpvar2fxq" expanded="True">
+            <Node name="lab2scharpvar2fxq" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
